@@ -7,5 +7,5 @@ class Test_01:
         assert 1
     def test_03(self):
         print('789')
-        assert 1
+        assert 0
         
